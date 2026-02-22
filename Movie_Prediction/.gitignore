@@ -1,0 +1,5 @@
+# Ignore model pickle files
+model/*.pkl
+model/*
+# Optional: ignore all pickle files
+*.pkl
